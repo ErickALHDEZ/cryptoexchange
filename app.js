@@ -17,7 +17,7 @@ new Vue({
                 { day: 'Domingo', value: 10200 },
             ],
 
-            showPrices: true
+            showPrices: false
         }
     },
     methods:{
